@@ -1,0 +1,99 @@
+.gjk{
+  color: rgb(255, 255, 255);
+  opacity: 1;
+}
+
+.govno{
+  color: rgb(255, 255, 255);
+}
+
+.fhhd{
+padding-top: 30%;
+}
+
+.hyy{
+  height: 250px;
+  width:250px ;
+  padding-left: 34%;
+
+}
+
+.bikdik{
+  height: 250px;
+  width:250px ;
+}
+
+.fhhp{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 200%;
+ 
+  color: rgb(255, 255, 255);
+}
+
+.fhhpp{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 200%;
+
+  color: rgb(255, 255, 255);
+  padding-left: 90%;
+  
+}
+
+.trr{
+  background-color: rgb(24, 24, 24);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.fh{
+  background-color: black;
+  height: 50px;
+  width: 1500px;
+}
+
+.fhh{
+  height: 50px;
+  width: 500px;
+  color: rgb(255, 255, 255);
+}
+
+.fhho{
+  padding-left: 50%;
+  height: 50px;
+  width: 700px;
+  color: rgb(255, 255, 255);
+}
+
+.govno{
+  background-color: rgb(255, 255, 255);
+}
+
+.rbhh{
+    opacity: 0.3; ;
+    padding-left: 35%;
+    padding-top: 10%;
+}
+.rbhhh{
+  opacity: 0.3; ;
+  padding-left: 35%;
+ 
+}
+
+.rg{
+    
+}
+
+img.background {
+    min-height: 100%;
+    min-width: 640px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    @media screen and (max-width: 640px){
+      img.bg {
+        left: 50%;
+        margin-left: -320px;
+      }
+    }
+  }
